@@ -24,5 +24,5 @@ The following machine learning models are implemented in the project:
 - **Linear Regression**
 - **Decision Tree**
 - **Lasso**
-- 
+  
 Each model is trained, and their performances are compared using evaluation metrics.
