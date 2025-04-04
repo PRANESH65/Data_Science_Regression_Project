@@ -1,3 +1,4 @@
+https://docs.google.com/document/d/1jCkwNRRteyTlB2K8AJ-Kre4tHSrfg30H/edit?usp=sharing&ouid=116663780035321444850&rtpof=true&sd=true
 # Predicting Home Prices Using Machine Learning
 
 ## Overview
